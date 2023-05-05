@@ -50,7 +50,7 @@ For testing the BMS connect it to the charger first instead of HV
 
 How to edit canbus messages-https://www.orionbms.com/downloads/misc/editing_canbus_messages.pdf
 
-//ADD IMAGE
+![canbus messages](https://user-images.githubusercontent.com/125976297/236580594-e4621b26-af7e-4a3a-a8d9-b5f4fe6a21df.png)
 
 NOTE-
 
@@ -90,4 +90,13 @@ NOTE-
 
 2)Connect the MCP2515 to Arduino UNO using the following connections:
 
-//ADD IMAGE
+![mcp](https://user-images.githubusercontent.com/125976297/236580807-510640a7-68fc-42c0-9359-57243dca90a5.jpg)
+
+## Faults
+1)Convert the parameters **DTC FLAGS #1** and **DTC FLAGS #2** to binary and check each bit for faults
+![dtc1](https://user-images.githubusercontent.com/125976297/236581779-d805b31d-ad54-4ee5-b35a-6c4d20f86af8.png)
+![dtc2](https://user-images.githubusercontent.com/125976297/236581799-553ff8d2-9a67-408a-a42a-c4ed98be289f.png)
+
+## Additional Links
+https://www.orionbms.com/general/retrieving-data-obd2-canbus/
+
