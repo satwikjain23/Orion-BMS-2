@@ -45,7 +45,7 @@ For testing the BMS connect it to the charger first instead of HV
 
 3)Attach a wire to the **Ground Lug** and join it with **Ground** of BMS,i.e.both of the wires are connected to the negative terminal of charger
 
-//ADD IMAGE
+
 ## CANBUS Settings
 
 How to edit canbus messages-https://www.orionbms.com/downloads/misc/editing_canbus_messages.pdf
@@ -63,13 +63,13 @@ NOTE-
 
 1)Connect the BMS to laptop using CAN Adapter,which is attached to the CAN 1 wires
 
-//ADD IMAGE
+
 
 2)Click on **Connect to BMS option**
 
 3)Click on **Connect**
 
-//ADD IMAGE
+
 
 4)
 
